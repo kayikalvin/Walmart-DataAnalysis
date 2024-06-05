@@ -36,7 +36,7 @@ The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition]
 
 
 ### Model
-https://github.com/kayikalvin/Walmart-DataAnalysis/blob/master/WalmartModel.drawio.png
+![Data Model](https://github.com/kayikalvin/Walmart-DataAnalysis/blob/master/WalmartModel.drawio.png)
 
 
 
