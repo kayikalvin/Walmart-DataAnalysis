@@ -1,5 +1,10 @@
 # Walmart Sales Data Analysis
 
+# Dashboard
+[Walmart Sales Dashboard](https://lookerstudio.google.com/reporting/94b14e89-6c6d-49f1-a625-d5f4a7138a72/page/HcyEE)
+
+
+
 ## About
 
 This project aims to explore the Walmart Sales data to understand top performing branches and products, sales trend of of different products, customer behaviour. The aims is to study how sales strategies can be improved and optimized. The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting).
