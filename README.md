@@ -1,8 +1,10 @@
 # Walmart Sales Data Analysis
 
 # Dashboard
-[Walmart Sales Dashboard](https://lookerstudio.google.com/reporting/94b14e89-6c6d-49f1-a625-d5f4a7138a72/page/HcyEE)
+
 ![Data Model](https://github.com/kayikalvin/Walmart-DataAnalysis/blob/master/dashboard.png)
+
+Check out the responsive dashboard here [Walmart Sales Dashboard](https://lookerstudio.google.com/reporting/94b14e89-6c6d-49f1-a625-d5f4a7138a72/page/HcyEE)
 
 
 
